@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/AmanSegavo"><img src="https://img.shields.io/github/followers/AmanSegavo?label=Followers&style=for-the-badge&color=2563EB" alt="Followers"></a>
+  <a href="https://www.instagram.com/segafaman/"><img src="https://img.shields.io/badge/Instagram-%40segafaman-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://github.com/AmanSegavo?tab=repositories"><img src="https://img.shields.io/github/stars/AmanSegavo?label=Stars&style=for-the-badge&color=F59E0B" alt="Stars"></a>
   <a href="https://www.coursera.org/user/053575387@ecampus.ut.ac.id"><img src="https://img.shields.io/badge/Coursera-Verified_Learner-0056D2?style=for-the-badge&logo=coursera" alt="Coursera"></a>
 </p>
@@ -103,6 +104,7 @@
 <div align="center">
 
 ### 🤝 Let's Connect!
+[![Instagram](https://img.shields.io/badge/Instagram-%40segafaman-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/segafaman/)
 [![GitHub](https://img.shields.io/badge/GitHub-AmanSegavo-181717?style=for-the-badge&logo=github)](https://github.com/AmanSegavo)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanshop328@gmail.com)
 
