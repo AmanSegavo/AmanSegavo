@@ -67,6 +67,7 @@
 | 🛡️ **Foundations of Cybersecurity** | **Google** | [Verify Credential](https://coursera.org/verify/NEX8JMGB7VC8) |
 | 🛡️ **Play It Safe: Manage Security Risks** | **Google** | [Verify Credential](https://coursera.org/verify/ILX81GZNA3PC) |
 | 🛡️ **Connect and Protect: Networks and Network Security** | **Google** | [Verify Credential](https://coursera.org/verify/KD1HL280OQ03) |
+| 🛡️ **Tools of the Trade: Linux and SQL** | **Google** | [Verify Credential](https://coursera.org/verify/AMUS1WDDC9HK) |
 | 🤖 **Stay Ahead of the AI Curve** | **Google** | [Verify Credential](https://coursera.org/verify/85LVQWY4AHMF) |
 | 📊 **What is Data Science?** | **IBM** | [Verify Credential](https://coursera.org/verify/SEV06F1TUCAD) |
 | 🐍 **Python for Data Science, AI & Development** | **IBM** | [Verify Credential](https://coursera.org/verify/O8F4ZROGJSH0) |
