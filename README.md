@@ -18,7 +18,7 @@
 
 ## 📌 About Me
 
-- 🎓 **Education:** Undergraduate in **Data Science** at **Universitas Terbuka**
+- 🎓 **Education:** Undergraduate in **Data Science** at **Universitas Terbuka ongoing**, **Full Stack Data Science** at **Hacktiv8 on ongoing** 
 - 🛡️ **Cybersecurity:** Pursuing the **Google Cybersecurity Professional Certificate** (Hands-on Linux access control, network defense, threat analysis & incident response).
 - 💼 **Entrepreneurship:** Founder of **Jostru Techsolution**, designing web platforms and automated data systems.
 - 🔭 **Current Focus:** Advanced Data Analysis, Machine Learning, Secure Software Development & Cloud Security.
